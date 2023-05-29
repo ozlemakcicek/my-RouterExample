@@ -1,0 +1,51 @@
+h1{
+    color: white;
+text-align: center;
+font-size:3rem;
+
+
+}
+h1:hover{
+    color: rgb(245, 222, 222);
+}
+
+.kedi{
+    width: 20px;
+    /* mix-blend-mode:screen; */
+    
+}
+
+.nav-link{
+    padding: 1rem;
+    color:white
+    /* background-color: whitesmoke; */
+    
+}
+
+.nav-link:hover{
+    background-color:rgb(245, 222, 222);
+}
+.logo{
+    border-radius: 50%;
+}
+ .img-container {
+    
+  
+  width: 250px;
+  height: 30vh;
+  
+
+  /* border: 2px solid red; */
+  
+}
+/* .img-container img{
+    display: inline;
+    width: 200px;
+    margin-right: 2rem;
+
+} */
+.ekran{
+    background-color: rgb(245, 222, 222);
+    
+}
+
