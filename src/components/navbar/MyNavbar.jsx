@@ -34,7 +34,9 @@ const MyNavbar = () => {
           <NavLink
             className="nav-link "
             to="/"
-            style={({ isActive }) => ({ backgroundColor: isActive && "orange" })}
+            style={({ isActive }) => ({
+              backgroundColor: isActive && "orange",
+            })}
           >
             Home
           </NavLink>
@@ -50,7 +52,7 @@ const MyNavbar = () => {
           </NavLink>
           <div className="d-flex">
             <a
-              href="https://github.com/clarusway/clarusway-FS-DE-04-TR"
+              href="https://github.com/clarusway/clarusway-FS-DE-05-TR"
               className="nav-link"
               target="_blank"
               rel="noreferrer"
